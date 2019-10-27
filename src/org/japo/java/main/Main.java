@@ -30,12 +30,12 @@ public class Main {
 
     public static void main(String[] args) {
         
-        String nombre;
+        String nom;
         
         System.out.print("Me llamo ......: ");
-        nombre = SCN.nextLine();
+        nom = SCN.nextLine();
         
-        System.out.printf("Me llamo ......: %s%n", nombre);
+        System.out.printf("Me llamo ......: %s%n", nom);
         
     }
 }
